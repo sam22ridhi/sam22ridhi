@@ -6,6 +6,7 @@ I'm Samridhi!
 - 🔭 I’m currently working on projects related to artificial intelligence and machine learning.
 - 🌱 I’m currently learning advanced data science techniques and exploring new AI frameworks.
 - 👯 I’m looking to collaborate on innovative AI and machine learning projects.
+- 📚 I'm a research-oriented enthusiast delving into the latest AI trends and technologies.
 - 🤔 I’m looking for help with enhancing my knowledge in deep learning and neural networks.
 - 💬 Ask me about AI, machine learning, tech trends, generative AI, LangChain, and agents.
 - 📫 How to reach me: [samridhiraj04@gmail.com](mailto:samridhiraj04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samridhi-raj-sinha-a96520217/) | [Twitter](https://twitter.com/samisindilemma)
