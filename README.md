@@ -7,7 +7,7 @@ I'm Samridhi!
 - 🌱 I’m currently learning advanced data science techniques and exploring new AI frameworks.
 - 👯 I’m looking to collaborate on innovative AI and machine learning projects.
 - 🤔 I’m looking for help with enhancing my knowledge in deep learning and neural networks.
-- 💬 Ask me about AI, machine learning, and tech trends.
+- 💬 Ask me about AI, machine learning, tech trends, generative AI, LangChain, and agents.
 - 📫 How to reach me: [samridhiraj04@gmail.com](mailto:samridhiraj04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samridhi-raj-sinha-a96520217/) | [Twitter](https://twitter.com/samisindilemma)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love reading books and learning new stuff!
@@ -24,6 +24,7 @@ I'm Samridhi!
 - Deep learning algorithms and their applications.
 - Advanced data visualization techniques.
 - Cutting-edge AI research papers.
+- Generative AI, LangChain, and agents.
 
 ## 📫 How to reach me
 - Email: [samridhiraj04@gmail.com](mailto:samridhiraj04@gmail.com)
@@ -42,7 +43,10 @@ I'm Samridhi!
 
 ## 🌟 Projects to Check Out
 - [AI Chatbot](https://github.com/sam22ridhi/aichatbot)
-- [Machine Learning Model for Predictive Analytics](https://github.com/sam22ridhi/ml-predictive-analytics)
-- [Data Visualization Dashboard](https://github.com/sam22ridhi/data-visualization-dashboard)
+- [Game Development using AI](https://github.com/sam22ridhi/ml-predictive-analytics)
+- [Generative AI Playground](https://github.com/sam22ridhi/data-visualization-dashboard)
+
+## ✍️ Medium Blogs
+Check out my latest articles on Medium: [Samridhi's Medium](https://medium.com/@samridhiraj04)
 
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
