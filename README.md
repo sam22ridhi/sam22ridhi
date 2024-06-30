@@ -2,15 +2,15 @@
 
 I'm Samridhi!
 
-🌸 I love coding and creating fun projects.
-🔭 I’m currently working on projects related to artificial intelligence and machine learning.
-🌱 I’m currently learning advanced data science techniques and exploring new AI frameworks.
-👯 I’m looking to collaborate on innovative AI and machine learning projects.
-🤔 I’m looking for help with enhancing my knowledge in deep learning and neural networks.
-💬 Ask me about AI, machine learning, and tech trends.
-📫 How to reach me: [samridhi@example.com](mailto:samridhiraj04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samridhi-raj-sinha-a96520217/) | [Twitter](https://twitter.com/samisindilemma)
-😄 Pronouns: she/her
-⚡ Fun fact: I love reading books and learning new stuff!
+- 🌸 I love coding and creating fun projects.
+- 🔭 I’m currently working on projects related to artificial intelligence and machine learning.
+- 🌱 I’m currently learning advanced data science techniques and exploring new AI frameworks.
+- 👯 I’m looking to collaborate on innovative AI and machine learning projects.
+- 🤔 I’m looking for help with enhancing my knowledge in deep learning and neural networks.
+- 💬 Ask me about AI, machine learning, and tech trends.
+- 📫 How to reach me: [samridhiraj04@gmail.com](mailto:samridhiraj04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samridhi-raj-sinha-a96520217/) | [Twitter](https://twitter.com/samisindilemma)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love reading books and learning new stuff!
 
 ![AI](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
@@ -26,9 +26,9 @@ I'm Samridhi!
 - Cutting-edge AI research papers.
 
 ## 📫 How to reach me
-- Email: [samridhi@example.com](mailto:samridhi@example.com)
-- [LinkedIn](https://www.linkedin.com/in/samridhi/)
-- [Twitter](https://twitter.com/samridhi)
+- Email: [samridhiraj04@gmail.com](mailto:samridhiraj04@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/samridhi-raj-sinha-a96520217/)
+- [Twitter](https://twitter.com/samisindilemma)
 
 ## 📊 GitHub Stats
 ![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam22ridhi&show_icons=true&theme=radical)
