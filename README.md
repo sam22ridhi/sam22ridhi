@@ -40,9 +40,6 @@ I'm Samridhi!
 ## 🏆 GitHub Achievements
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sam22ridhi&theme=dracula)
 
-## 📈 GitHub Contributions
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=sam22ridhi&theme=dracula&hide_border=true)
-
 ## 📖 Books I'm Reading
 - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
@@ -57,5 +54,4 @@ I'm Samridhi!
 Check out my latest articles on Medium: [Samridhi's Medium](https://medium.com/@samridhi)
 
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
 
