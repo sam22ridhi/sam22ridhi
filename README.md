@@ -1,10 +1,14 @@
+Here's an enhanced README file with improved stats and visual elements:
+
+---
+
 ## Hi there 👋
 
 I'm Samridhi!
 
 - 🌸 I love coding and creating fun projects.
 - 🔭 I’m currently working on projects related to artificial intelligence and machine learning.
-- 🌱 I’m currently learning advanced data science techniques and exploring new AI frameworks.
+- 🌱 I’m exploring advanced data science techniques and new AI frameworks.
 - 📚 I'm a research-oriented enthusiast delving into the latest AI trends and technologies.
 - 👯 I’m looking to collaborate on innovative AI and machine learning projects.
 - 🤔 I’m looking for help with enhancing my knowledge in deep learning and neural networks.
@@ -36,10 +40,11 @@ I'm Samridhi!
 - [Twitter](https://twitter.com/samisindilemma)
 
 ## 📊 GitHub Stats
-![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam22ridhi&show_icons=true&theme=radical)
+![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam22ridhi&show_icons=true&count_private=true&theme=radical&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam22ridhi&layout=compact&theme=radical)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sam22ridhi.sam22ridhi)
+## 🏆 GitHub Achievements
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sam22ridhi&theme=dracula)
 
 ## 📖 Books I'm Reading
 - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
@@ -55,3 +60,7 @@ I'm Samridhi!
 Check out my latest articles on Medium: [Samridhi's Medium](https://medium.com/@samridhi)
 
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+---
+
+This updated README file includes additional visual elements, GitHub achievements, and more detailed statistics to make your profile stand out.
