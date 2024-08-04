@@ -1,4 +1,12 @@
+If the activity graph is still not working, you might want to try another approach to embed your GitHub activity graph. Here's an alternative method using `Ashutosh00710/github-readme-activity-graph`:
 
+1. Ensure you have the `github-readme-activity-graph` in your repository by following [this guide](https://github.com/Ashutosh00710/github-readme-activity-graph#quick-start).
+
+2. Update your `README.md` with the correct markdown to include the activity graph.
+
+Here’s your updated profile with this new integration:
+
+---
 
 ## Hi there 👋
 
@@ -40,7 +48,7 @@ I'm Samridhi!
 
 ## 🏆 GitHub Achievements
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sam22ridhi&theme=dracula)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sam22ridhi&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sam22ridhi&theme=dracula)
 
 ## 📖 Books I'm Reading
 - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
@@ -57,3 +65,6 @@ Check out my latest articles on Medium: [Samridhi's Medium](https://medium.com/@
 
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
+---
+
+Make sure to replace `sam22ridhi` with your GitHub username and verify the integration is working properly by checking your README file on GitHub.
