@@ -1,12 +1,4 @@
-If the activity graph is still not working, you might want to try another approach to embed your GitHub activity graph. Here's an alternative method using `Ashutosh00710/github-readme-activity-graph`:
 
-1. Ensure you have the `github-readme-activity-graph` in your repository by following [this guide](https://github.com/Ashutosh00710/github-readme-activity-graph#quick-start).
-
-2. Update your `README.md` with the correct markdown to include the activity graph.
-
-Here’s your updated profile with this new integration:
-
----
 
 ## Hi there 👋
 
@@ -36,10 +28,11 @@ I'm Samridhi!
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📚 What I'm Learning
-- Deep learning algorithms and their applications.
-- Advanced data visualization techniques.
-- Cutting-edge AI research papers.
-- Generative AI, LangChain, and agents.
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-007ACC?style=flat&logo=tensorflow&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F00?style=flat&logo=chart-bar&logoColor=white)
+![AI Research](https://img.shields.io/badge/-AI%20Research-276DC3?style=flat&logo=researchgate&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam22ridhi&show_icons=true&count_private=true&theme=radical&hide=prs)
@@ -51,20 +44,16 @@ I'm Samridhi!
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sam22ridhi&theme=dracula)
 
 ## 📖 Books I'm Reading
-- "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-- "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
-- "Data Science from Scratch" by Joel Grus
+- "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-007ACC?style=flat&logo=tensorflow&logoColor=white)
+- "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-276DC3?style=flat&logo=ai&logoColor=white)
+- "Data Science from Scratch" by Joel Grus ![Data Science](https://img.shields.io/badge/-Data%20Science-FF6F00?style=flat&logo=python&logoColor=white)
 
 ## 🌟 Projects to Check Out
-- [AI Chatbot](https://github.com/sam22ridhi/aichatbot)
-- [Machine Learning Model for Predictive Analytics](https://github.com/sam22ridhi/ml-predictive-analytics)
-- [Data Visualization Dashboard](https://github.com/sam22ridhi/data-visualization-dashboard)
+- [AI Chatbot](https://github.com/sam22ridhi/aichatbot) ![Chatbot](https://img.shields.io/badge/-AI%20Chatbot-007ACC?style=flat&logo=python&logoColor=white)
+- [Machine Learning Model for Predictive Analytics](https://github.com/sam22ridhi/ml-predictive-analytics) ![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-276DC3?style=flat&logo=scikit-learn&logoColor=white)
+- [Data Visualization Dashboard](https://github.com/sam22ridhi/data-visualization-dashboard) ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F00?style=flat&logo=chart-bar&logoColor=white)
 
 ## ✍️ Medium Blogs
 Check out my latest articles on Medium: [Samridhi's Medium](https://medium.com/@samridhi)
 
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
----
-
-Make sure to replace `sam22ridhi` with your GitHub username and verify the integration is working properly by checking your README file on GitHub.
