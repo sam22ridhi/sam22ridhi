@@ -36,9 +36,11 @@ I'm Samridhi!
 ## 📊 GitHub Stats
 ![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam22ridhi&show_icons=true&count_private=true&theme=radical&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam22ridhi&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam22ridhi&theme=radical)
 
 ## 🏆 GitHub Achievements
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sam22ridhi&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sam22ridhi&theme=radical)
 
 ## 📖 Books I'm Reading
 - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
