@@ -40,7 +40,7 @@ I'm Samridhi!
 
 ## 🏆 GitHub Achievements
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sam22ridhi&theme=dracula)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sam22ridhi&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sam22ridhi&theme=radical)
 
 ## 📖 Books I'm Reading
 - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
