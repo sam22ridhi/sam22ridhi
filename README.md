@@ -1,8 +1,8 @@
 
-
 ## Hi there 👋
 
-I'm Samridhi!
+I'm Samridhiii
+
 - 🌸 I love coding and creating fun projects.
 - 🔭 I’m currently working on projects related to artificial intelligence and machine learning.
 - 🌱 I’m exploring advanced data science techniques and new AI frameworks.
