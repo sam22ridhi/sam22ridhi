@@ -96,9 +96,6 @@
 </p>
 
 ---
-
-## 🏁 **Footer Badges**
-
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-Love%20%26%20AI-FF6EC7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source%20-Enthusiast-8A2BE2?style=for-the-badge" />
