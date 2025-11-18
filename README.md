@@ -1,58 +1,112 @@
 
-## Hi there 👋
+---
 
-I'm Samridhiii !!!
+# 🌸 **Samridhi Raj Sinha**
 
-- 🌸 I love coding and creating fun projects.
-- 🔭 I’m currently working on projects related to artificial intelligence and machine learning.
-- 🌱 I’m exploring advanced data science techniques and new AI frameworks.
-- 📚 I'm a research-oriented enthusiast delving into the latest AI trends and technologies.
-- 👯 I’m looking to collaborate on innovative AI and machine learning projects.
-- 🤔 I’m looking for help with enhancing my knowledge in deep learning and neural networks.
-- 💬 Ask me about AI, machine learning, tech trends, generative AI, LangChain, and agents.
-- 📫 How to reach me: [samridhiraj04@gmail.com](mailto:samridhiraj04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samridhi-raj-sinha-a96520217/) | [Twitter](https://twitter.com/samisindilemma)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading books and learning new stuff!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44192d82-0cf8-499c-9ae9-750e0a00e415" width="100%" />
+</p>
 
-![AI](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=D65DB1&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C+Machine+Learning+Engineer;Loves+Coding+%26+Building+Fun+Projects;Deep+Learning+%7C+NLP+%7C+Generative+AI;Always+Learning+Something+New+🌸" />
+</p>
 
-## 🛠️ My Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sam22ridhi&style=for-the-badge&color=FF6EC7" />
+</p>
 
-## 📚 What I'm Learning
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-007ACC?style=flat&logo=tensorflow&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F00?style=flat&logo=chart-bar&logoColor=white)
-![AI Research](https://img.shields.io/badge/-AI%20Research-276DC3?style=flat&logo=researchgate&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-## 📊 GitHub Stats
-![Samridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam22ridhi&show_icons=true&count_private=true&theme=radical&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam22ridhi&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam22ridhi&theme=radical)
+## 👋 **Hi there! I’m Samridhiii ✨**
 
-## 🏆 GitHub Achievements
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sam22ridhi&theme=dracula)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sam22ridhi&theme=dracula)
+* 🌸 I love coding and creating fun projects.
+* 🔭 Currently building AI + ML systems.
+* 🌱 Diving deep into advanced data science & AI frameworks.
+* 📚 Research-oriented, exploring cutting-edge AI trends.
+* 👯 Open to collaborations in ML, LLMs, and agents.
+* 🤔 Seeking mentorship in deep learning & model alignment.
+* 💬 Ask me about AI, ML, Generative AI, LangChain, RAG, agents.
+* 📫 Reach me:
+  ✉️ **[samridhiraj04@gmail.com](mailto:samridhiraj04@gmail.com)**
+  🔗 **[LinkedIn](https://www.linkedin.com/in/samridhi-raj-sinha-a96520217/)**
+  🐦 **[Twitter](https://twitter.com/samisindilemma)**
+* 😄 Pronouns: **she/her**
+* ⚡ Fun fact: I love reading books and learning new stuff!
 
-## 📖 Books I'm Reading
-- "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-007ACC?style=flat&logo=tensorflow&logoColor=white)
-- "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-276DC3?style=flat&logo=ai&logoColor=white)
-- "Data Science from Scratch" by Joel Grus ![Data Science](https://img.shields.io/badge/-Data%20Science-FF6F00?style=flat&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" />
+</p>
 
-## 🌟 Projects to Check Out
-- [AI Chatbot](https://github.com/sam22ridhi/aichatbot) ![Chatbot](https://img.shields.io/badge/-AI%20Chatbot-007ACC?style=flat&logo=python&logoColor=white)
-- [Machine Learning Model for Predictive Analytics](https://github.com/sam22ridhi/ml-predictive-analytics) ![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-276DC3?style=flat&logo=scikit-learn&logoColor=white)
-- [Data Visualization Dashboard](https://github.com/sam22ridhi/data-visualization-dashboard) ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F00?style=flat&logo=chart-bar&logoColor=white)
+---
 
-## ✍️ Medium Blogs
-Check out my latest articles on Medium: [Samridhi's Medium](https://medium.com/@samridhi)
+## 🛠️ **Tech Stack & Skills**
 
-![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+
+</p>
+
+---
+
+## 📚 **Currently Learning**
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Visualization-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Research-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-FF1493?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge" />
+
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sam22ridhi&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam22ridhi&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sam22ridhi&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sam22ridhi&theme=dracula&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam22ridhi&theme=dracula" />
+</p>
+
+---
+
+## ✍️ **Medium Articles**
+
+👉 **[Read my latest work on Medium](https://medium.com/@samridhi)**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
+</p>
+
+---
+
+## 🏁 **Footer Badges**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-Love%20%26%20AI-FF6EC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20-Enthusiast-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always%20Learning-FFD700?style=for-the-badge" />
+</p>
+
+---
