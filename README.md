@@ -1,11 +1,7 @@
 
 ---
 
-# 🌸 **Samridhi Raj Sinha**
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/44192d82-0cf8-499c-9ae9-750e0a00e415" width="100%" />
-</p>
+# 🌸 **samridhi raj sinha**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=D65DB1&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C+Machine+Learning+Engineer;Loves+Coding+%26+Building+Fun+Projects;Deep+Learning+%7C+NLP+%7C+Generative+AI;Always+Learning+Something+New+🌸" />
@@ -17,7 +13,7 @@
 
 ---
 
-## 👋 **Hi there! I’m Samridhiii ✨**
+## 👋 **hi there! I’m samridhiii ✨**
 
 * 🌸 I love coding and creating fun projects.
 * 🔭 Currently building AI + ML systems.
