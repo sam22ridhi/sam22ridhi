@@ -17,17 +17,12 @@
 
 * 🌸 I love coding and creating fun projects.
 * 🔭 Currently building AI + ML systems.
-* 🌱 Diving deep into advanced data science & AI frameworks.
 * 📚 Research-oriented, exploring cutting-edge AI trends.
 * 👯 Open to collaborations in ML, LLMs, and agents.
-* 🤔 Seeking mentorship in deep learning & model alignment.
-* 💬 Ask me about AI, ML, Generative AI, LangChain, RAG, agents.
-* 📫 Reach me:
   ✉️ **[samridhiraj04@gmail.com](mailto:samridhiraj04@gmail.com)**
   🔗 **[LinkedIn](https://www.linkedin.com/in/samridhi-raj-sinha-a96520217/)**
   🐦 **[Twitter](https://twitter.com/samisindilemma)**
-* 😄 Pronouns: **she/her**
-* ⚡ Fun fact: I love reading books and learning new stuff!
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" />
