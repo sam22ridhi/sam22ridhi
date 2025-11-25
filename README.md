@@ -4,7 +4,7 @@
 # 🌸 **samridhi raj sinha**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=D65DB1&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C+Machine+Learning+Engineer;Loves+Coding+%26+Building+Fun+Projects;Deep+Learning+%7C+NLP+%7C+Generative+AI;Always+Learning+Something+New+🌸" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=D65DB1&center=true&vCenter=true&width=900&lines=AI+Researcher;Loves+Coding+%26+Building+Fun+Projects;Deep+Learning+%7C+NLP+%7C+Generative+AI;Always+Learning+Something+New+🌸" />
 </p>
 
 <p align="center">
