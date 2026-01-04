@@ -84,7 +84,7 @@
 
 ## ✍️ **Medium Articles**
 
-👉 **[Read my latest work on Medium](https://medium.com/@samridhi)**
+👉 **[Read my latest work on Medium](https://medium.com/@samridhiraj04)**
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
